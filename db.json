@@ -1,343 +1,119 @@
 {
-  "books": [
-  {
-    "id": "60132a5b4003128ee46fb4cd",
-    "lastEdited": "2020-02-24T12:05:43.511Z",
-    "title": "cillum cupidatat exercitation",
-    "author": "Tate Vargas",
-    "genres": [
-      "Detective",
-      "Sci-Fi",
-      "Action",
-      "Adventure",
-      "Horror"
+    "books": [
+        {
+            "id": "60132a5b4003128ee46fb4cd",
+            "lastEdited": "2020-02-24T12:05:43.511Z",
+            "title": "cillum cupidatat exercitation",
+            "author": "Tate Vargas",
+            "genres": [
+            "Detective",
+            "Sci-Fi",
+            "Action",
+            "Adventure",
+            "Horror"
+            ],
+            "annotation": "Aliqua eiusmod nostrud proident laboris sit esse consequat dolore consectetur adipisicing mollit commodo aliqua non. Sit non aliqua pariatur quis et sint. Nulla non ad nisi anim deserunt et laboris culpa ea Lorem fugiat sit pariatur. Ullamco magna ex et pariatur amet pariatur tempor. Ea laboris nulla duis aute labore culpa aliquip incididunt et deserunt quis.",
+            "rate": "3.11",
+            "vote": 48,
+            "chapters": [
+            {
+                "id": "60132a5b9188f9d6716a6423",
+                "order": 0,
+                "title": "pariatur culpa",
+                "lastEdited": "2020-02-24T12:05:43.511Z",
+                "annotation": "Eu occaecat ut dolore amet exercitation anim dolore aute exercitation elit laborum ut.",
+                "paragraphs": [
+                {
+                    "id": "60132a5b45c1da8624a0a0e5",
+                    "order": 0,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                },
+                {
+                    "id": "60132a5b5e5b8582c71dbff4",
+                    "order": 1,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                },
+                {
+                    "id": "60132a5bc00e7033d34c1bfa",
+                    "order": 2,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                }
+                ],
+                "lastListenedParagraph": 1
+            },
+            {
+                "id": "60132a5b4ddf3cbb279e414d",
+                "order": 1,
+                "title": "et",
+                "lastEdited": "2020-02-24T12:05:43.511Z",
+                "annotation": "Anim sunt nulla deserunt veniam velit cupidatat voluptate reprehenderit cupidatat velit excepteur.",
+                "paragraphs": [
+                {
+                    "id": "60132a5b57b6b740f35cb375",
+                    "order": 0,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                },
+                {
+                    "id": "60132a5bf4a0cd822d157c15",
+                    "order": 1,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                },
+                {
+                    "id": "60132a5bf5c4abd17a417584",
+                    "order": 2,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                }
+                ],
+                "lastListenedParagraph": 0
+            },
+            {
+                "id": "60132a5b7e824b53130159f9",
+                "order": 2,
+                "title": "exercitation",
+                "lastEdited": "2020-02-24T12:05:43.511Z",
+                "annotation": "Elit sunt aliqua ea ad non esse anim.",
+                "paragraphs": [
+                {
+                    "id": "60132a5b61ee1299fa85c50a",
+                    "order": 0,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                },
+                {
+                    "id": "60132a5b95f37bba8a83f283",
+                    "order": 1,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                },
+                {
+                    "id": "60132a5b33494eda3188863e",
+                    "order": 2,
+                    "type": "figure text",
+                    "extension": "jpg mp3",
+                    "duration": 4728
+                }
+                ],
+                "lastListenedParagraph": 1
+            }
+            ],
+            "listeningChapter": 1
+        }
     ],
-    "annotation": "Aliqua eiusmod nostrud proident laboris sit esse consequat dolore consectetur adipisicing mollit commodo aliqua non. Sit non aliqua pariatur quis et sint. Nulla non ad nisi anim deserunt et laboris culpa ea Lorem fugiat sit pariatur. Ullamco magna ex et pariatur amet pariatur tempor. Ea laboris nulla duis aute labore culpa aliquip incididunt et deserunt quis.",
-    "rate": "3.11",
-    "vote": 48,
-    "chapters": [
-      {
-        "id": "60132a5b9188f9d6716a6423",
-        "order": 0,
-        "title": "pariatur culpa",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Eu occaecat ut dolore amet exercitation anim dolore aute exercitation elit laborum ut.",
-        "paragraphs": [
-          {
-            "id": "60132a5b45c1da8624a0a0e5",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b5e5b8582c71dbff4",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5bc00e7033d34c1bfa",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": 1
-      },
-      {
-        "id": "60132a5b4ddf3cbb279e414d",
-        "order": 1,
-        "title": "et",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Anim sunt nulla deserunt veniam velit cupidatat voluptate reprehenderit cupidatat velit excepteur.",
-        "paragraphs": [
-          {
-            "id": "60132a5b57b6b740f35cb375",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5bf4a0cd822d157c15",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5bf5c4abd17a417584",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": 0
-      },
-      {
-        "id": "60132a5b7e824b53130159f9",
-        "order": 2,
-        "title": "exercitation",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Elit sunt aliqua ea ad non esse anim.",
-        "paragraphs": [
-          {
-            "id": "60132a5b61ee1299fa85c50a",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b95f37bba8a83f283",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b33494eda3188863e",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": 1
-      }
-    ],
-    "listeningChapter": 1
-  },
-  {
-    "id": "60132a5ba0ab87d2b672e9fe",
-    "lastEdited": "2020-02-24T12:05:43.511Z",
-    "title": "proident commodo ut eiusmod",
-    "author": "Charity Bolton",
-    "genres": [
-      "Detective",
-      "Sci-Fi",
-      "Action",
-      "Adventure",
-      "Horror"
-    ],
-    "annotation": "Veniam sint ea sint fugiat nisi cupidatat id consectetur tempor. Et labore laboris duis magna enim mollit tempor sint ex deserunt velit. Sint aliqua ut minim pariatur aute nulla quis. Do excepteur sunt ad consectetur ullamco pariatur.",
-    "rate": "4.45",
-    "vote": 24,
-    "chapters": [
-      {
-        "id": "60132a5b45b7badce26f0f23",
-        "order": 0,
-        "title": "est culpa",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Non exercitation irure voluptate non mollit cupidatat velit.",
-        "paragraphs": [
-          {
-            "id": "60132a5b1293b21fd37affed",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b25b159cf65edf1ec",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5be7f0f4ceae94daf9",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": 0
-      },
-      {
-        "id": "60132a5bda8cb71808c503e4",
-        "order": 1,
-        "title": "ut quis",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Ut nisi sunt ad reprehenderit.",
-        "paragraphs": [
-          {
-            "id": "60132a5b3005c3cdbf8a0e76",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b6e35b44a5e7680d8",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5bf957dc806c867e86",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": "-1"
-      },
-      {
-        "id": "60132a5b02aa19458725af8f",
-        "order": 2,
-        "title": "pariatur",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Laboris cupidatat adipisicing excepteur sint ut cillum est ut labore est veniam cillum.",
-        "paragraphs": [
-          {
-            "id": "60132a5bc7e6238c1d1ba7b9",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5ba2f8463b2c862341",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b8e5d7c1a6cef60e2",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": "-1"
-      }
-    ],
-    "listeningChapter": 1
-  },
-  {
-    "id": "60132a5beba5af489ae7120b",
-    "lastEdited": "2020-02-24T12:05:43.511Z",
-    "title": "nulla",
-    "author": "Mccarty Cotton",
-    "genres": [
-      "Detective",
-      "Sci-Fi",
-      "Action",
-      "Adventure",
-      "Horror"
-    ],
-    "annotation": "Duis voluptate minim ipsum est incididunt non. Labore minim est consequat aliquip id anim aliqua aliquip. Laboris proident mollit in culpa cillum amet elit sunt quis sint nostrud adipisicing magna velit. Est fugiat do fugiat pariatur ad pariatur anim ullamco est aliquip occaecat laboris cillum exercitation. Ut consequat velit eiusmod consectetur do amet ex sunt fugiat id aliquip cupidatat sunt laborum. Enim voluptate dolore minim nisi. Ullamco sint et eiusmod qui cupidatat labore occaecat eu.",
-    "rate": "2.64",
-    "vote": 3,
-    "chapters": [
-      {
-        "id": "60132a5bbee90c016804477f",
-        "order": 0,
-        "title": "Lorem",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Tempor culpa pariatur exercitation cupidatat reprehenderit duis consectetur tempor ut amet.",
-        "paragraphs": [
-          {
-            "id": "60132a5b21432dd3309e9d1f",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5bb3144f9e40e517eb",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b5466ed8c0a3724cc",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": 0
-      },
-      {
-        "id": "60132a5bc09d41c91e961b6b",
-        "order": 1,
-        "title": "voluptate",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Non quis id aliqua eiusmod.",
-        "paragraphs": [
-          {
-            "id": "60132a5bd06cd512a0ba46d3",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b78541dc94ed0a38e",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b07b6e378f3bb900d",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": 0
-      },
-      {
-        "id": "60132a5b3a711cace18a38d2",
-        "order": 2,
-        "title": "nulla",
-        "lastEdited": "2020-02-24T12:05:43.511Z",
-        "annotation": "Ex minim eu voluptate ea do aute culpa esse ea commodo irure nisi labore.",
-        "paragraphs": [
-          {
-            "id": "60132a5b6c01471c1d416260",
-            "order": 0,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5be4dfe9f7020e9c03",
-            "order": 1,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          },
-          {
-            "id": "60132a5b6060f06dd423a25b",
-            "order": 2,
-            "type": "figure text",
-            "extension": "jpg mp3",
-            "duration": 4728
-          }
-        ],
-        "lastListenedParagraph": 0
-      }
-    ],
-    "listeningChapter": "-1"
-  }
-],
-  "profile": {
-    "name": "typicode"
-  }
+    "profile": {
+      "name": "typicode"
+    }
 }
