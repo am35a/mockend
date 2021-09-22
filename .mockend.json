@@ -1,10 +1,5 @@
 {
-    "AsideItems": {
-        {
-            "id": 1,
-            "icon": "home",
-            "title": "Home page",
-            "segment": "home"
-        }
+    "Post": {
+        "title": "title",
     }
 }
